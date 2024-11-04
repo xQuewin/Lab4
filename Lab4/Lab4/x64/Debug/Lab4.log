@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Temprature.cpp
+  Generating Code...
+C:\Users\Q\source\repos\Lab4\Lab4\Temprature.cpp(63,39): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Q\source\repos\Lab4\Lab4\Temprature.cpp(75,30): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+  Lab4.vcxproj -> C:\Users\Q\source\repos\Lab4\x64\Debug\Lab4.exe
